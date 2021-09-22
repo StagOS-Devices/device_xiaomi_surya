@@ -1,0 +1,23 @@
+[
+   {     
+       "repository": "kernel_xiaomi_surya",
+       "target_path": "kernel/xiaomi/surya",
+       "branch": "r11"
+   },
+   {
+       "repository": "vendor_xiaomi_surya",
+       "target_path": "vendor/xiaomi/surya",
+       "branch": "r11"
+   },
+   {   
+       "repository": "android_hardware_xiaomi",
+       "target_path": "hardware/xiaomi",
+       "branch": "r11"
+   },
+   {
+       "repository": "subhajeetmuhuri/proprietary_firmware_xiaomi_surya",
+       "target_path": "firmware/xiaomi/surya",
+       "branch": "lineage-18.1",
+       "remote": "gitlab"
+   }
+]
