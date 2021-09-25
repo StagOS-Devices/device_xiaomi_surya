@@ -4,3 +4,12 @@
         <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
     </privapp-permissions>
 </permissions>
+#MiXplorer
+<permissions>
+
+    <privapp-permissions package="com.mixplorer">
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+    </privapp-permissions>
+
+</permissions>
